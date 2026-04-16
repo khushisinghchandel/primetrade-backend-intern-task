@@ -1,5 +1,9 @@
 # Primetrade.ai - Backend Developer Intern Task
 
+**🌍 Live Frontend Demo:** [https://primetrade-backend-intern-task.vercel.app/](https://primetrade-backend-intern-task.vercel.app/)  
+**⚙️ Live Backend API:** [https://primetrade-backend-intern-task.onrender.com](https://primetrade-backend-intern-task.onrender.com)  
+**📖 API Documentation:** [https://drive.google.com/file/d/1YLAY6zmMTxKV8tlh35jt-ntfsK3vLPcq/view?usp=sharing]
+
 A full-stack MERN application demonstrating secure API design, JWT authentication, role-based access control (User/Admin), and CRUD operations.
 
 ## 🚀 Quick Start Setup
@@ -18,9 +22,6 @@ A full-stack MERN application demonstrating secure API design, JWT authenticatio
 1. `cd frontend`
 2. `npm install`
 3. `npm run dev`
-
-## 🔗 API Documentation
-https://drive.google.com/file/d/1YLAY6zmMTxKV8tlh35jt-ntfsK3vLPcq/view?usp=sharing
 
 ## 📈 Scalability & Deployment Note
 To prepare this system for a high-traffic production environment, I would implement the following architectural changes:
